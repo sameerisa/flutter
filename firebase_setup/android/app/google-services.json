@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1076241704305",
+    "firebase_url": "https://flutter-intro-setup-d22c2.firebaseio.com",
+    "project_id": "flutter-intro-setup-d22c2",
+    "storage_bucket": "flutter-intro-setup-d22c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076241704305:android:eaf1ce9b7f013d9ccb02d0",
+        "android_client_info": {
+          "package_name": "com.medangle.firebasesetup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076241704305-daef84k9qjdnkml387nma0tofuh7i33b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medangle.firebasesetup",
+            "certificate_hash": "95782e5a41a2d0eead13c2b16980c28a567c3d86"
+          }
+        },
+        {
+          "client_id": "1076241704305-vpp3106ismo6u7akjc255g9nqa37m4r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYj8xWIal_b4hwXN2_A91zikTzI_JbvOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076241704305-vpp3106ismo6u7akjc255g9nqa37m4r6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
